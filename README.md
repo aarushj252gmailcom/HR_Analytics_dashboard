@@ -65,3 +65,4 @@ v) Business Impact & Insights
 🎯 Targeted retention programs can be designed for these groups
 
 🖼️ Screenshot
+   Dashboard - (https://github.com/aarushj252gmailcom/HR_Analytics_dashboard/blob/main/HR_Analytics_dashboard.png)
